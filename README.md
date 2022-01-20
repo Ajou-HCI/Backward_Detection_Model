@@ -1,6 +1,6 @@
 # Backward Detection Model 
 
-<img src="./img/Seungwon_sig.jpg" width="300" height="200">
+<img src="./img/1.png" width="500" height="300">
 
 [Paper link](https://dl.acm.org/doi/abs/10.1145/3415264.3425469)
 
